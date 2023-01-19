@@ -1,5 +1,5 @@
 # 월간 데이콘 심리 성향 예측 AI 경진대회
-2020-DACON-Psychological-Competition
+2020-DACON-Psychological-Competition 
 
 <br/>
 
